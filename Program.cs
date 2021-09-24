@@ -4,7 +4,7 @@ namespace MathSolution
 {
     class Program
     {
-        private Math math= new Math();
+        public Math math= new Math();
         static void Main(string[] args)
         {
             Console.WriteLine("1 + 1 = ");

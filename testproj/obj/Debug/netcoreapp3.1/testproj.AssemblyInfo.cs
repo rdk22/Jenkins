@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MathSolution")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("testproj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MathSolution")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MathSolution")]
+[assembly: System.Reflection.AssemblyProductAttribute("testproj")]
+[assembly: System.Reflection.AssemblyTitleAttribute("testproj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
