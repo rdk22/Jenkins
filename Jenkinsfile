@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                echo 'BUDOWANIE'
             }
         }
         stage('Test') {
@@ -12,9 +12,8 @@ pipeline {
                 echo 'Testing..'
             }
         }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
+        stage('DeployCleans {
+                echo 'Cleaning....'
             }
         }
     }
